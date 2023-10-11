@@ -1,0 +1,21 @@
+{
+  "blockId": "F4334bk9pwRGMoHhNeIUg",
+  "name": "child_C_fn",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/Parent_A.git",
+    "ssh": "git@github.com:grgshiji/Parent_A.git",
+    "branch": "block_child_C_fn"
+  },
+  "parentBlockIDs": [
+    "BBU0rfwKyKE0B6PnWUiTD",
+    "HOU056sSymsKOEDmXXBY-"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
