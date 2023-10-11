@@ -3,8 +3,8 @@
   "name": "child_B_Package",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/Parent_A.git",
+    "ssh": "git@github.com:grgshiji/Parent_A.git",
     "branch": "block_child_B_Package"
   },
   "parentBlockIDs": [

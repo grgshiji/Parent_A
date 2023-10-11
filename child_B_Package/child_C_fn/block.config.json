@@ -3,8 +3,8 @@
   "name": "child_C_fn",
   "type": "function",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/Parent_A.git",
+    "ssh": "git@github.com:grgshiji/Parent_A.git",
     "branch": "block_child_C_fn"
   },
   "parentBlockIDs": [
