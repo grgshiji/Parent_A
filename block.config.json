@@ -1,0 +1,21 @@
+{
+  "name": "Parent_A",
+  "type": "package",
+  "blockId": "BBU0rfwKyKE0B6PnWUiTD",
+  "source": {
+    "https": "https://github.com/grgshiji/Parent_A.git",
+    "ssh": "git@github.com:grgshiji/Parent_A.git",
+    "branch": "block_Parent_A"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "child_B_Package": {
+      "directory": "child_B_Package"
+    }
+  }
+}
