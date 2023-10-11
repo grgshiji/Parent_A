@@ -1,0 +1,23 @@
+{
+  "blockId": "HOU056sSymsKOEDmXXBY-",
+  "name": "child_B_Package",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/grgshiji/Parent_A.git",
+    "ssh": "git@github.com:grgshiji/Parent_A.git",
+    "branch": "block_child_B_Package"
+  },
+  "parentBlockIDs": [
+    "BBU0rfwKyKE0B6PnWUiTD"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "dependencies": {
+    "child_C_fn": {
+      "directory": "child_C_fn"
+    }
+  }
+}
